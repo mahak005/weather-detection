@@ -6,8 +6,6 @@ A simple, command line weather application built with Python that fetches real t
 
 The Python Weather App allows users to check current weather conditions by entering a city name. It retrieves weather data from the OpenWeatherMap API and displays important details in an easy to read format.
 
-This project was built to practice Python programming, working with REST APIs, handling JSON responses, managing environment variables, and handling errors.
-
 ## Features
 
 - Search weather by city name
